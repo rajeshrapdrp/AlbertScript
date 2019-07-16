@@ -37,19 +37,19 @@
     },
     "configurationArguments": {
        "save": {
-          "url": "https://weatheralbert.herokuapp.com/",
+          "url": "https://sfmccustomactivity.herokuapp.com/",
 		  "verb": "POST"
        },
        "publish": {
-          "url": "https://weatheralbert.herokuapp.com/", 
+          "url": "https://sfmccustomactivity.herokuapp.com/", 
 		  "verb": "POST"
        },
        "validate": {
-         "url": "https://weatheralbert.herokuapp.com/", 
+         "url": "https://sfmccustomactivity.herokuapp.com/", 
 		  "verb": "POST"
        },
        "stop": {
-          "url": "https://weatheralbert.herokuapp.com/",
+          "url": "https://sfmccustomactivity.herokuapp.com/",
 		  "verb": "POST"
         }
     },
